@@ -1,4 +1,6 @@
-# yandexRegEx ссылка на мой репозиторий https://github.com/DmJavaScript
+# yandexRegEx 
+# ссылка на мой репозиторий https://github.com/DmJavaScript
+
 project 10
 
 Актуальная версия программы v.0.0.3 от 12 октября 2019г.
